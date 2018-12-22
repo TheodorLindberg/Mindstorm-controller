@@ -1,0 +1,131 @@
+﻿  AssemblyInfo.cpp
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(3): error C2871: 'System': a namespace with this name does not exist
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(4): error C2653: 'System': is not a class or namespace name
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(4): error C2871: 'Reflection': a namespace with this name does not exist
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(5): error C2653: 'System': is not a class or namespace name
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(5): error C2871: 'CompilerServices': a namespace with this name does not exist
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(6): error C2653: 'System': is not a class or namespace name
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(6): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(7): error C2653: 'System': is not a class or namespace name
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(7): error C2871: 'Permissions': a namespace with this name does not exist
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(14): warning C4467: usage of ATL attributes is deprecated
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(14): error C2337: 'AssemblyTitleAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(15): error C2337: 'AssemblyDescriptionAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(16): error C2337: 'AssemblyConfigurationAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(17): error C2337: 'AssemblyCompanyAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(18): error C2337: 'AssemblyProductAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(19): error C2337: 'AssemblyCopyrightAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(20): error C2337: 'AssemblyTrademarkAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(21): error C2337: 'AssemblyCultureAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(34): error C2337: 'AssemblyVersionAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(36): error C2337: 'ComVisible': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(38): error C2337: 'CLSCompliantAttribute': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(40): error C2337: 'SecurityPermission': attribute not found
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(40): error C2653: 'SecurityAction': is not a class or namespace name
+c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(40): error C2065: 'RequestMinimum': undeclared identifier
+  c:\users\theodor\desktop\c to managed call\manageddll\assemblyinfo.cpp(40): note: missing quotes ("") around 'RequestMinimum'?
+  ManagedDll.cpp
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(5): error C2871: 'System': a namespace with this name does not exist
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(6): error C2653: 'System': is not a class or namespace name
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(6): error C2871: 'Reflection': a namespace with this name does not exist
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(10): error C2059: syntax error: 'public'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(11): error C2143: syntax error: missing ';' before '{'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(11): error C2447: '{': missing function header (old-style formal list?)
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(65): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(65): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(65): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(65): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(66): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(66): error C2228: left of '.ReadMessage' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(66): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(70): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(70): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(70): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(70): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(71): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(71): error C2228: left of '.IsConnected' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(71): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(75): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(75): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(75): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(75): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(76): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(76): error C2228: left of '.Disconnect' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(76): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(80): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(80): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(80): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(80): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(81): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(81): error C2228: left of '.Connect' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(81): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(85): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(85): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(85): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(85): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(86): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(86): error C2228: left of '.SendMessage' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(86): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(90): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(90): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(90): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(90): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(91): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(91): error C2228: left of '.SendMessage' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(91): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(95): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(95): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(95): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(95): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(96): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(96): error C2228: left of '.SendMessage' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(96): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(100): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(100): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(100): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(100): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(101): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(101): error C2228: left of '.GetAvilableMessages' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(101): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(105): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(105): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(105): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(105): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(106): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(106): error C2228: left of '.AvilableMessage' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(106): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(111): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(111): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(111): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(111): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(112): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(112): error C2228: left of '.GetValue' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(112): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(116): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(116): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(116): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(116): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(117): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(117): error C2228: left of '.ChangeValue' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(117): note: type is 'unknown-type'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(121): error C2039: 'DoWork': is not a member of 'ManagedDll'
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(8): note: see declaration of 'ManagedDll'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(121): error C2065: 'DoWork': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(121): error C2146: syntax error: missing ';' before identifier 'work'
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(121): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(122): error C2065: 'work': undeclared identifier
+c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(122): error C2228: left of '.ShowCSharpMessageBox' must have class/struct/union
+  c:\users\theodor\desktop\c to managed call\manageddll\manageddll.h(122): note: type is 'unknown-type'
+  Stdafx.cpp
+  Generating Code...

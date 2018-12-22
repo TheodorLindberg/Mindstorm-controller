@@ -1,0 +1,33 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly ManagedCSharp, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly EV3MessengerLib, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ManagedCSharp.ManagedClass: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Fields:
+    System.Collections.Generic.List`1[EV3MessengerLib.EV3Message] messages : Public, Static
+    Int32 Value : Public, Static
+    System.IO.Ports.SerialPort port : Public, Static
+  Methods:
+    ShowValue(): PrivateScope, Public, Static, HideBySig
+    GetValue(): PrivateScope, Public, Static, HideBySig
+    ChangeValue(Int32): PrivateScope, Public, Static, HideBySig
+    UpdateMessageReciving(): PrivateScope, Public, Static, HideBySig
+    Connect(Int32): PrivateScope, Public, Static, HideBySig
+    Disconnect(): PrivateScope, Public, Static, HideBySig
+    IsConnected(): PrivateScope, Public, Static, HideBySig
+    SendMessage(String, String): PrivateScope, Public, Static, HideBySig
+    SendMessage(String, Single): PrivateScope, Public, Static, HideBySig
+    SendMessage(String, Boolean): PrivateScope, Public, Static, HideBySig
+    GetAvilableMessages(): PrivateScope, Public, Static, HideBySig
+    AvilableMessage(): PrivateScope, Public, Static, HideBySig
+    ReadMessageTitle(): PrivateScope, Public, Static, HideBySig
+    ReadMessageText(): PrivateScope, Public, Static, HideBySig
+    ReadMessageNumber(): PrivateScope, Public, Static, HideBySig
+    ReadMessageLogic(): PrivateScope, Public, Static, HideBySig

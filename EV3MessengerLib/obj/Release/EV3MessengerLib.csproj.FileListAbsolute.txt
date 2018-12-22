@@ -1,0 +1,14 @@
+C:\Users\Theodor\Desktop\sourceCode\ev3messenger\src\EV3MessengerLib\bin\Release\EV3MessengerLib.XML
+C:\Users\Theodor\Desktop\sourceCode\ev3messenger\src\EV3MessengerLib\bin\Release\EV3MessengerLib.dll
+C:\Users\Theodor\Desktop\sourceCode\ev3messenger\src\EV3MessengerLib\bin\Release\EV3MessengerLib.pdb
+C:\Users\Theodor\Desktop\sourceCode\ev3messenger\src\EV3MessengerLib\obj\Release\EV3MessengerLib.csprojAssemblyReference.cache
+C:\Users\Theodor\Desktop\sourceCode\ev3messenger\src\EV3MessengerLib\obj\Release\EV3MessengerLib.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\Desktop\sourceCode\ev3messenger\src\EV3MessengerLib\obj\Release\EV3MessengerLib.dll
+C:\Users\Theodor\Desktop\sourceCode\ev3messenger\src\EV3MessengerLib\obj\Release\EV3MessengerLib.pdb
+C:\Users\Theodor\Desktop\C To Managed Call\EV3MessengerLib\bin\Release\EV3MessengerLib.XML
+C:\Users\Theodor\Desktop\C To Managed Call\EV3MessengerLib\bin\Release\EV3MessengerLib.dll
+C:\Users\Theodor\Desktop\C To Managed Call\EV3MessengerLib\bin\Release\EV3MessengerLib.pdb
+C:\Users\Theodor\Desktop\C To Managed Call\EV3MessengerLib\obj\Release\EV3MessengerLib.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\Desktop\C To Managed Call\EV3MessengerLib\obj\Release\EV3MessengerLib.dll
+C:\Users\Theodor\Desktop\C To Managed Call\EV3MessengerLib\obj\Release\EV3MessengerLib.pdb
+C:\Users\Theodor\Desktop\C To Managed Call\EV3MessengerLib\obj\Release\EV3MessengerLib.csprojAssemblyReference.cache

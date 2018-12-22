@@ -1,0 +1,18 @@
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\bin\Debug\ManagedCSharp.dll
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\bin\Debug\ManagedCSharp.pdb
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\bin\Debug\EV3MessengerLib.dll
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\bin\Debug\EV3MessengerLib.pdb
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\bin\Debug\EV3MessengerLib.xml
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.csproj.CopyComplete
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.dll
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.pdb
+C:\Users\Theodor\Desktop\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.csprojAssemblyReference.cache
+C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\ManagedCSharp\bin\Debug\ManagedCSharp.dll
+C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\ManagedCSharp\bin\Debug\ManagedCSharp.pdb
+C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\ManagedCSharp\bin\Debug\EV3MessengerLib.dll
+C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.csprojAssemblyReference.cache
+C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.csproj.CopyComplete
+C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.dll
+C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\ManagedCSharp\obj\Debug\ManagedCSharp.pdb

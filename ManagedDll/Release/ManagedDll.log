@@ -1,0 +1,8 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+c:\users\theodor\desktop\old c to managed call\c to managed call\manageddll\assemblyinfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  c:\users\theodor\desktop\old c to managed call\c to managed call\manageddll\assemblyinfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  ManagedDll.cpp
+  Generating Code...
+LINK : warning LNK4068: /MACHINE not specified; defaulting to X86
+  ManagedDll.vcxproj -> C:\Users\Theodor\Desktop\Old c to managed call\C To Managed Call\Release\ManagedDll.lib
